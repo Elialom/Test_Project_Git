@@ -12,5 +12,6 @@ fun main() {
         println("i = $i")
         println("Hello world!")
         println("Task 001 has been completed")
+        println("Task 002 has been completed")
     }
 }
