@@ -13,5 +13,7 @@ fun main() {
         println("Hello world!")
         println("Task 001 has been completed")
         println("Task 002 has been completed")
+        println("Task 003 has been completed")
+        println("Task 004 has been completed")
     }
 }
